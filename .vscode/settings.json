@@ -1,0 +1,7 @@
+{
+  "[markdown]": {
+    "editor.defaultFormatter": "chrmarti.regex",
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": false
+  }
+}
